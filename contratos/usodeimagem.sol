@@ -12,7 +12,7 @@ contract UsoDeImagem {
     }
 
     constructor() public {
-        nomeEmpresa = "Artista SuperPop Ltda";
+        nomeEmpresa = "Pelegrin";
         artista = msg.sender;
     }
 	
